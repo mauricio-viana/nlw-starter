@@ -1,7 +1,7 @@
 # Next Level Week Starter
 
 A Next Level Week Starte é trilha para puplico que deseja denvolver para web, e quem estará conduzido a mentoria será o [Mayk Brito](https://github.com/maykbrito 'Mayk Brito') .
-Foco e muita, muita prática!! :tw-1f600:
+Foco e muita, muita prática!!
 
 ## O que é o Next Level Week?
 
