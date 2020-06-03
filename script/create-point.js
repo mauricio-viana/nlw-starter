@@ -1,3 +1,10 @@
+/*Bom dia, galera! compartilho abaixo meu linkedin e github caso alguém queira
+fazer aquele networking! 
+
+Bom dia, galera! segue meus contatos parar ampliar o networking.
+https://www.linkedin.com/in/mauricio-viana
+https://github.com/mauricio-viana */
+
 const ufSelect = document.querySelector('[name=uf');
 const citySelect = document.querySelector('[name=city]');
 const inputState = document.querySelector('[name=state]');
@@ -36,3 +43,31 @@ async function itemsSelect(select, url) {
 
 populateUFs();
 ufSelect.addEventListener('change', getCities);
+
+//itens de coleta
+const itemsToCollect = document.querySelectorAll('.items-grid li');
+for (const item of itemsToCollect) {
+  item.addEventListener('click', handleSelectedItem);
+}
+
+const collectedItems = document.querySelector('[name=items]');
+let selectedItems = [];
+
+function handleSelectedItem(event) {
+  const itemLi = event.target;
+  const itemId = event.target.dataset.id;
+
+  itemLi.classList.toggle('selected');
+
+  const alreadeSelected = selectedItems.indexOf(itemId);
+
+  if (alreadeSelected >= 0) {
+    const filteredItems = selectedItems.filter((item) => {
+      return item != itemId;
+    });
+    selectedItems = filteredItems;
+  } else {
+    selectedItems.push(itemId);
+  }
+  collectedItems.value = selectedItems;
+}

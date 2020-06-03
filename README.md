@@ -12,11 +12,11 @@ Entenda mais sobre o evento: [next_level_week](https://nextlevelweek.com/inscric
 
 ![ecoleta](https://i.imgur.com/2xBpWcv.png 'ecoleta')
 
-### sobre
+### Sobre
 
 Ecoleta é um projeto de marketplace voltado para fins ecologicos, tem como objetivo mapear/conectar empresas e entidades de coletas de resíduos orgânicos e inorgânicos, para pessoas que precição realizar o descarte se seus rediduos de maneira ecológica.
 
-###### Opções de descartes;
+#### Opções de descartes;
 
 - Lâmpadas
 - Pilhas e baterias
