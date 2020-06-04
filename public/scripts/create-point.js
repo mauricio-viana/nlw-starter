@@ -1,10 +1,3 @@
-/*Bom dia, galera! compartilho abaixo meu linkedin e github caso alguém queira
-fazer aquele networking! 
-
-Bom dia, galera! segue meus contatos parar ampliar o networking.
-https://www.linkedin.com/in/mauricio-viana
-https://github.com/mauricio-viana */
-
 const ufSelect = document.querySelector('[name=uf');
 const citySelect = document.querySelector('[name=city]');
 const inputState = document.querySelector('[name=state]');
