@@ -1,0 +1,14 @@
+<div id="modal" class='error-point'>
+  <div class="content">
+    <img src="/assets/error.svg" alt="Erro ao cadastrar, tente novamente mais tarde">
+    <h1>Erro ao cadastrar, tente novamente mais tarde</h1>
+  </div>
+</div>
+
+<script>
+  setTimeout(() => {
+    document
+      .querySelector('#modal')
+      .remove();
+  }, 2000);
+</script>
