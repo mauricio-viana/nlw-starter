@@ -10,9 +10,12 @@ Este projeto foi ministrado pelo [Mayk Brito](https://github.com/maykbrito 'Mayk
 
 ## Projeto
 
-![](https://i.imgur.com/2xBpWcv.png 'ecoleta')
+![](https://github.com/mauricio-viana/nlw-starter/blob/master/images/home-page.png?raw=true)
 
-[![](https://img.shields.io/badge/made by-mauricio--viana-brightgreen)](https://www.linkedin.com/in/mauricio-viana/ '![](https://img.shields.io/badge/made by-mauricio--viana-green)') ![](https://img.shields.io/github/languages/count/mauricio-viana/nlw-starter) ![](https://img.shields.io/github/languages/top/mauricio-viana/nlw-starter) ![](https://img.shields.io/github/repo-size/mauricio-viana/nlw-starter)
+![[https://www.linkedin.com/in/mauricio-viana/](https://www.linkedin.com/in/mauricio-viana/)](https://img.shields.io/badge/made%20by-mauricio--viana-brightgreen) ![](https://img.shields.io/github/languages/count/mauricio-viana/nlw-starter) ![](https://img.shields.io/github/languages/top/mauricio-viana/nlw-starter) ![](https://img.shields.io/github/repo-size/mauricio-viana/nlw-starter)
+
+
+
 
 ### Sobre
 
@@ -31,16 +34,23 @@ Bem vindo a Ecoleta, um projeto de marketplace criado especialmente para pessoas
 
 _Cadastre ponto de coleta:_
 
+![](https://github.com/mauricio-viana/nlw-starter/blob/master/images/create-point.gif?raw=true)
+
 _Consulte pontos de coletas por cidade:_
 
+![](https://github.com/mauricio-viana/nlw-starter/blob/master/images/search.gif?raw=true)
+
 _Monitore o fluxo da aplicação:_
+
+![](https://github.com/mauricio-viana/nlw-starter/blob/master/images/log.gif?raw=true)
+
 
 ## Gostou do projeto? Veja como utiliza-lo: :rocket:
 
 **Pré requisitos: Node + NPM**
 
 ```bash
-# Versores minimas ou superiores.
+# Versões mínimas ou superiores.
 $ node -v
 v12.16.3
 
@@ -77,6 +87,6 @@ Se quiser ter seus proprios cadastros, tire o comentario do arquivo src/database
 // });
 ```
 
-## Nota:mortar_board: Nota
+## :mortar_board: Nota
 
 Nexte Level :v:
