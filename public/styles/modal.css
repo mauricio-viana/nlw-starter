@@ -75,13 +75,21 @@
   background-color: #2fb85e;
 }
 
-#modal.point .content {
+#modal.point .content,
+#modal.error-point .content {
   display: flex;
   flex-direction: column;
   align-items: center;
+  width: auto;
 }
 
-#modal.point h1 {
+#modal.point h1,
+#modal.error-point h1 {
   color: white;
   margin-top: 32px;
+}
+
+#modal.error-point img {
+  width: 8vw;
+  height: 8vh;
 }

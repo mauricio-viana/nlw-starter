@@ -104,6 +104,8 @@
 {% block modal %}
   {% if saved %}
     {% include "partials/point-created.html"%}
+  {% elseif failure %}
+    {% include "partials/error-point-created.html" %}
   {% endif %}
 {% endblock modal %}
 
