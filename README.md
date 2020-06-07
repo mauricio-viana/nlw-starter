@@ -58,7 +58,7 @@ $ npm -v
 6.14.5
 ```
 
-**Tem os requisitos? Então borá configurar:**
+**Tem os requisitos? Então bora configurar:**
 
 ```bash
 # Faça clone do repositorio
