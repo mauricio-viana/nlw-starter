@@ -12,7 +12,7 @@ Este projeto foi ministrado pelo [Mayk Brito](https://github.com/maykbrito 'Mayk
 
 ![](https://github.com/mauricio-viana/nlw-starter/blob/master/images/home-page.png?raw=true)
 
-![[https://www.linkedin.com/in/mauricio-viana/](https://www.linkedin.com/in/mauricio-viana/)](https://img.shields.io/badge/made%20by-mauricio--viana-brightgreen) ![](https://img.shields.io/github/languages/count/mauricio-viana/nlw-starter) ![](https://img.shields.io/github/languages/top/mauricio-viana/nlw-starter) ![](https://img.shields.io/github/repo-size/mauricio-viana/nlw-starter)
+[![](https://img.shields.io/badge/made_by-mauricio--viana-brightgreen)](https://www.linkedin.com/in/mauricio-viana/) ![](https://img.shields.io/github/languages/count/mauricio-viana/nlw-starter) ![](https://img.shields.io/github/languages/top/mauricio-viana/nlw-starter) ![](https://img.shields.io/github/repo-size/mauricio-viana/nlw-starter)
 
 
 
