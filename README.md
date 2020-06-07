@@ -1,37 +1,82 @@
 # Next Level Week Starter
 
-A Next Level Week Starte é trilha para puplico que deseja denvolver para web, e quem estará conduzido a mentoria será o [Mayk Brito](https://github.com/maykbrito 'Mayk Brito') .
-Foco e muita, muita prática!!
+A Next Level Week Starte é uma semana prática com muito código, desafios, networking com o único objetivo de elevar níveis.
 
-## O que é o Next Level Week?
+O Foco aqui é compartilhar e absolver conteúdo para aprender novas ferramentas, conhecer novas tecnologias e descobrir hacks para dar aquele UP na carreira, Ah! e não podemos esquercer muita, muita prática!!!
 
-O Next Level Week é uma semana prática com muito código, desafios, networking e um único objetivo: te levar para o próximo nível.
-Entenda mais sobre o evento: [next_level_week](https://nextlevelweek.com/inscricao/1 'next_level_week')
+Este projeto foi ministrado pelo [Mayk Brito](https://github.com/maykbrito 'Mayk Brito') (Maykão). :grin:
+
+[Rocketseat](https://rocketseat.com.br/ 'Rocketseat')
 
 ## Projeto
 
-![ecoleta](https://i.imgur.com/2xBpWcv.png 'ecoleta')
+![](https://i.imgur.com/2xBpWcv.png 'ecoleta')
+
+[![](https://img.shields.io/badge/made by-mauricio--viana-brightgreen)](https://www.linkedin.com/in/mauricio-viana/ '![](https://img.shields.io/badge/made by-mauricio--viana-green)') ![](https://img.shields.io/github/languages/count/mauricio-viana/nlw-starter) ![](https://img.shields.io/github/languages/top/mauricio-viana/nlw-starter) ![](https://img.shields.io/github/repo-size/mauricio-viana/nlw-starter)
 
 ### Sobre
 
-Ecoleta é um projeto de marketplace voltado para fins ecologicos, tem como objetivo mapear/conectar empresas e entidades de coletas de resíduos orgânicos e inorgânicos, para pessoas que precição realizar o descarte se seus rediduos de maneira ecológica.
+Bem vindo a Ecoleta, um projeto de marketplace criado especialmente para pessoas que cuidam do nosso planeta, com a prática de descarte ecológico. Temos como objetivo mapear e conectar pessoas e empresas com as entidades de coleta de resíduos orgânicos e inorgânicos, deixando tudo mais fácil e divertido!
 
-#### Opções de descartes;
+- **Veja opções de descartes;**
 
-- Lâmpadas
-- Pilhas e baterias
-- Papéis e papelão
-- Resíduos eletrônicos
-- Resíduos orgânicos
-- Óleo de cozinha
+* Lâmpadas
+* Pilhas e baterias
+* Papéis e papelão
+* Resíduos eletrônicos
+* Resíduos orgânicos
+* Óleo de cozinha
 
-## Bibliotecas e tecnologias utilizadas
+## Funcionalidades
 
-- JavaScript
-- HTML
-- CSS
-- APIs utilizadas;
+_Cadastre ponto de coleta:_
 
-`https://servicodados.ibge.gov.br/api/v1/localidades/estados`
+_Consulte pontos de coletas por cidade:_
 
-`https://servicodados.ibge.gov.br/api/v1/localidades/estados/{uf}/municipios`
+_Monitore o fluxo da aplicação:_
+
+## Gostou do projeto? Veja como utiliza-lo: :rocket:
+
+**Pré requisitos: Node + NPM**
+
+```bash
+# Versores minimas ou superiores.
+$ node -v
+v12.16.3
+
+$ npm -v
+6.14.5
+```
+
+**Tem os requisitos? Então borá configurar:**
+
+```bash
+# Faça clone do repositorio
+$ git clone https://github.com/mauricio-viana/nlw-starter.git
+
+# Entre no diretório
+$ cd nlw-starter
+
+# Instalar dependências
+$ npm install
+
+# Inicie o servidor
+$ npm start
+
+# Server started
+```
+
+Se quiser ter seus proprios cadastros, tire o comentario do arquivo src/database/db.js, inicie o server com o comando `npm start`, verifique o log, comente novamente o código e reinicie o server.
+
+```javascript
+// db.run(`DROP TABLE places`, function (error) {
+//   if (error) {
+//     return console.log(error.message);
+//   }
+//   console.log('Registro deletado com sucesso!');
+// });
+```
+
+## Nota:mortar_board: Nota
+
+Nexte Level :v:
